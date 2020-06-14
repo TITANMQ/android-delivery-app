@@ -77,8 +77,8 @@ public class ActivitySignUp extends AppCompatActivity {
 
                 if(selectedRadioBtn != null){
                     accountTypeText = selectedRadioBtn.getText().toString().toLowerCase();
-                    if(!accountTypeText.equals(AccountType.user.toString()) ||
-                            !accountTypeText.equals(AccountType.courier.toString())){
+                    if(!accountTypeText.equals(AccountType.user.name()) &&
+                            !accountTypeText.equals(AccountType.courier.name())){
                         Toast.makeText(getApplicationContext(), "Invalid account type, Try Again", Toast.LENGTH_SHORT).show();
                         accountTypeRadioGroup.clearCheck();
                         return;
