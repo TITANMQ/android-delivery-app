@@ -1,0 +1,66 @@
+<resources>
+
+    <string name="app_name">Delivery app</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_deliveries">Deliveries</string>
+    <string name="title_profile">Profile</string>
+    <string name="account_type">Account Type</string>
+    <string name="courier">Courier</string>
+    <string name="user">User</string>
+    <string name="email">Email</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="welcome_message">Welcome to app name \n enter the required details to sign up</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="log_in_message">Enter your details to log in</string>
+    <string name="log_in_error_message">Your email or password is incorrect</string>
+    <string name="edit">Edit</string>
+    <string name="profile">Profile</string>
+    <string name="save">Save</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="delivery_type">Delivery type</string>
+    <string name="search">Search</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_delivery_maps">Map</string>
+    <string name="sign_up_here"><u>Haven\'t got an account? Sign up here.</u></string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="collection_address">Collection Address</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="expiry_date">Expiry date</string>
+    <string name="extra_details">Extra details</string>
+    <string name="status">Status</string>
+    <string name="delivery">Delivery</string>
+    <string name="create_delivery">Create delivery</string>
+    <string name="create">Create</string>
+    <string name="active_deliveries">Active deliveries</string>
+    <string name="deliveries">Deliveries</string>
+    <string name="update_profile">Update profile</string>
+    <string name="overall_rating">Overall rating:</string>
+    <string name="reviews">Reviews</string>
+    <string name="profile_details">Profile details</string>
+    <string name="collection_postcode">Collection postcode</string>
+    <string name="journey_end">Journey end</string>
+    <string name="journey_start">Journey start</string>
+    <string name="start_postcode">Start postcode</string>
+    <string name="end_postcode">End postcode*</string>
+    <string name="search_radius">Search radius</string>
+</resources>

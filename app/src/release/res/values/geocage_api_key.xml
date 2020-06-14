@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    Get you api key for free from here https://opencagedata.com/api
+sign up to get your api key, limited to 2,500 requests per day for testing purposes -->
+    <string name="geo_api_key" templateMergeStrategy="preserve" translatable="false">YOUR_API_KEY_HERE</string>
+</resources>

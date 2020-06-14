@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    fill in url string with the server url http://localhost:8080 -->
+        <string name="url">REPLACE SERVER URL</string>
+</resources>

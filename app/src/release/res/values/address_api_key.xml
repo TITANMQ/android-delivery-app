@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    Get you api key for free from here https://getaddress.io/
+which allows up to 20 requests per day -->
+    <string name="address_api_key" templateMergeStrategy="preserve" translatable="false">YOUR_API_KEY_HERE</string>
+</resources>
